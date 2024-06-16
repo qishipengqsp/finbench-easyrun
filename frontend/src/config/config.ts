@@ -1,6 +1,6 @@
 const HEADERCONFIG = {
-    imageName:'cstc.png',
-    headerName:'GraphDBBench'
+    imageName:'tugraph-logo.png',
+    headerName:'FinBench'
 }
 
 export {
